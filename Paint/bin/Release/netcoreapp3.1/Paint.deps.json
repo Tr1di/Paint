@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Paint/1.0.0": {
+        "runtime": {
+          "Paint.dll": {}
+        },
+        "resources": {
+          "ru-RU/Paint.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "en-US/Paint.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oVn/zF/MVQcLK8OYTtTOr7NcEEGEnCLbkAeaMZOjSeCttgB/9FvGoW+WAp+CLrrH9z9iBh2ZMuy2dleu/vzbVA==",
+  "success": true,
+  "projectFilePath": "U:\\Projects\\Imp\\Paint\\Paint\\Paint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DragoNOZD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
